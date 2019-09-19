@@ -1,0 +1,42 @@
+main {
+    width: 80%;
+    /* display:flex; */
+    margin: 0 auto;
+    font-size: 15pt;
+}
+
+body{
+    background-image: url(https://static.wixstatic.com/media/2cd43b_d56738bb1ac747f9a133068f28876409~mv2.png?dn=Shrek%20.png);
+    background-color: black;
+    background-size: 300px;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 40pt;
+}
+
+h2 {
+    font-family: comic sans ms;
+    font-size: 20pt;
+}
+
+
+nav {
+    /* width: 20%; */
+}
+
+a {
+    color: greenyellow;
+    font-family: comic sans ms;
+}
+
+p {
+   font-family: comic sans ms;
+}
+
+section {
+    /* width: 80% */
+    color: greenyellow;
+}
+
