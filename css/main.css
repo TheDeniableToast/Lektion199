@@ -5,14 +5,16 @@ main {
 }
 
 body{
-    background-color: black;
+    background-color: purple;
     background-size: 300px;
 }
 
 h1 {
-    font-family: 'Dancing Script', cursive;
-    font-size: 40pt;
+    font-family: impact;
+    font-size: 60pt;
     color: greenyellow;
+    background-color: black;
+    width: 120pt;
 }
 
 h2 {
@@ -32,6 +34,7 @@ a {
 }
 
 p {
+    background-color: black;
     color: red;
     font-family: Verdana;
 }
@@ -41,6 +44,8 @@ section {
     width: 60%;
 }
 
-audio {
-    width: 10%;
+
+img {
+    width: 510px;
+    height: 640px;
 }
