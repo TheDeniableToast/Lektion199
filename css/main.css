@@ -1,12 +1,10 @@
 main {
-    width: 80%;
-    /* display:flex; */
+   /* display:flex;*/
     margin: 0 auto;
     font-size: 15pt;
 }
 
 body{
-    background-image: url(https://avatars2.githubusercontent.com/u/25300150?s=400&v=4);
     background-color: black;
     background-size: 300px;
 }
@@ -14,11 +12,13 @@ body{
 h1 {
     font-family: 'Dancing Script', cursive;
     font-size: 40pt;
+    color: greenyellow;
 }
 
 h2 {
     font-family: comic sans ms;
     font-size: 20pt;
+    color: red;
 }
 
 
@@ -32,11 +32,15 @@ a {
 }
 
 p {
-   font-family: comic sans ms;
+    color: red;
+    font-family: Verdana;
 }
 
 section {
-    /* width: 80% */
-    color: greenyellow;
+    margin: 0 auto;
+    width: 60%;
 }
 
+audio {
+    width: 10%;
+}
